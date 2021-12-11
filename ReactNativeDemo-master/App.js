@@ -1,5 +1,5 @@
 import React  from 'react';
-import { createStackNavigator } from 'react-navigation';//install package
+import { createStackNavigator } from 'react-navigation';//install package (key word type on terminal - npm install @react-navigation/native)
 import MainActivity from "./Componant/mainactivity";
 import SecondActivity from "./Componant/secondactivity";
 
